@@ -1,0 +1,15 @@
+header
+{
+position:fixed ;
+width: 100%;
+
+}
+ nav
+ {
+background-color: black;
+color: aliceblue;
+display: flex;
+justify-content: center;
+ }
+
+ 
